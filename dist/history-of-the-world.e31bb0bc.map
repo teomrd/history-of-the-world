@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AACAA,OAAO,CAACC,GAAR,CAAY,aAAZ","file":"history-of-the-world.e31bb0bc.map","sourceRoot":"..","sourcesContent":["\nconsole.log('Hello world');\n"]}
