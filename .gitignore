@@ -1,4 +1,4 @@
-.cache
-.vscode
+.cache/
+.vscode/
 .DS_Store
-dist
+dist/
