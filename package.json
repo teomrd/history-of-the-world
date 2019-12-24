@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production && cp -R ./src/static ./dist/"
   },
   "author": "teomrd",
   "license": "ISC",
