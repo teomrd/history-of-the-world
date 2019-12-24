@@ -22,6 +22,6 @@ version_type=${1:-patch};
 npm version "$version_type" &&
   npm run build &&
   git add ./dist/* &&
-  git amend -n &&
+  git commit --amend --no-edit &&
   git push &&
   git subtree push --prefix dist origin gh-pages
