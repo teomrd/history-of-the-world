@@ -1,0 +1,70 @@
+{
+  "eras": [
+    {
+      "start_date": {
+        "year": "-1100"
+      },
+      "end_date": {
+        "year": "-146"
+      },
+      "text": {
+        "headline": "Ancient Greece 1100 BC –146 BC"
+      }
+    },
+    {
+      "start_date": {
+        "year": "-323"
+      },
+      "end_date": {
+        "year": "-31"
+      },
+      "text": {
+        "headline": "Hellenistic period 323 BC - 31 BC"
+      }
+    },
+    {
+      "start_date": {
+        "year": "-31"
+      },
+      "end_date": {
+        "year": "1453"
+      },
+      "text": {
+        "headline": "Roman Empire 31 BC – 1453 AC"
+      }
+    },
+    {
+      "start_date": {
+        "year": "1299"
+      },
+      "end_date": {
+        "year": "1922"
+      },
+      "text": {
+        "headline": "Ottoman Empire 1299-1922"
+      }
+    },
+    {
+      "start_date": {
+        "year": "395"
+      },
+      "end_date": {
+        "year": "1453"
+      },
+      "text": {
+        "headline": "Eastern Roman (Byzantine) Empire"
+      }
+    },
+    {
+      "start_date": {
+        "year": "800"
+      },
+      "end_date": {
+        "year": "1400"
+      },
+      "text": {
+        "headline": "Islamic Golden Age"
+      }
+    }
+  ]
+}

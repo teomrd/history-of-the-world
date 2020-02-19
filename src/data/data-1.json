@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great",
+        "caption": "Death of Alexander the Great"
+      },
+      "start_date": {
+        "year": "-323"
+      },
+      "text": {
+        "headline": "",
+        "text": ""
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "1453"
+      },
+      "text": {
+        "headline": "Constantinople fells",
+        "text": "The Byzantine Empire comes to an end as it falls to the Ottoman Empire."
+      },
+      "background": {
+        "url": "https://www.pronews.gr/sites/default/files/styles/full/public/article/2013/05/28/ALOSI.jpg"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.ducksters.com/history/roman_empire_map_large.png",
+        "caption": "The Roman Empire at its peak in 117 AD"
+      },
+      "start_date": {
+        "year": "117"
+      },
+      "text": {
+        "headline": "The Roman Empire at its peak in 117 AD"
+      }
+    },
+    {
+      "media": {
+        "url": "//upload.wikimedia.org/wikipedia/commons/c/c4/Rosaparks.jpg",
+        "caption": "Rosa Parks"
+      },
+      "start_date": {
+        "year": "1955"
+      },
+      "text": {
+        "headline": "Rosa Parks' act of resistance",
+        "text": "Born on Feb. 4, 1913. On Dec. 1, 1955, Parks was arrested after she refused to give up her seat to a white passenger on a city bus in Montgomery, Alabama. Her act of resistance led to a 13-month boycott of the Montgomery bus system that would help spark the civil rights movement. Often described as a tired seamstress, no troublemaker, Parks was in fact a dedicated civil rights activist involved with the National Association for the Advancement of Colored People (NAACP) and the movement long before and after her historic action on the Montgomery bus. Twelve years before that fateful commute, she joined the NAACP as an investigator to monitor criminal justice activity in Alabama communities. Her work focused particularly on defending Black men from false accusations and lynchings and protecting survivors of sexual assault, ensuring that they had access to justice through the courts. “Here we have, in many ways, one of the most famous Americans of the 20th century, and yet treated just like a sort of children’s book hero,” says historian Jeanne Theoharis. “We diminish her legacy by making it about a single day, a single act, as opposed to the rich and lifelong history of resistance that was actually who Rosa Parks was.”"
+      }
+    }
+  ]
+}
